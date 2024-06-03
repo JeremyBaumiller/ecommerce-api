@@ -1,4 +1,5 @@
-# e-com-app
+# ecommerce-api
+
 
 Welcome to the back end of the eCommerce site developed for Fullstack Solutions' client. This README.md provides instructions for setting up the project locally and any necessary environment variables.
 
@@ -10,7 +11,7 @@ To run this project locally, follow these steps:
    git clone <repository-url>
 
 2. **Install Dependencies**:
-   cd e-com-app
+   cd ecommerce-api
    npm install
 
 3. **Set Up Environment Variables**:
