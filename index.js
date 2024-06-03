@@ -63,3 +63,9 @@ app.get("/api/orders/:orderId/details", (req, res) => {
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);
 });
+
+// future issues may include:
+// - Routes not working when placeholder is removed, will trouble shoot those if needed.
+// - Make sure port is set correctly
+// - I need routes to return user tables, product tables, category table, order and order details table with all associated files.
+// - May need to add new files for routes.
